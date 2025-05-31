@@ -9,7 +9,7 @@
 
 ## Perfil Profesional
 
-Estudiante de cuarto año de Ingeniería en Informática en Duoc UC, con base técnica en contabilidad y experiencia práctica en el área de remuneraciones. Me interesa especialmente la gestión de proyectos informáticos, donde puedo aplicar mi enfoque analítico, compromiso con el aprendizaje y habilidad para trabajar en equipo. Me motiva coordinar esfuerzos, organizar tareas y aportar soluciones tecnológicas que generen valor real.
+Estudiante de cuarto año de Ingeniería en Informática en Duoc UC, con formación previa como Técnico Contable y experiencia práctica en el área de remuneraciones. Me apasionan tanto el desarrollo de software como la gestión de proyectos informáticos, donde puedo combinar mis habilidades técnicas con mi capacidad para organizar, coordinar equipos y cumplir objetivos. Me destaco por mi pensamiento analítico, compromiso con el aprendizaje continuo y facilidad para trabajar en entornos colaborativos.
 
 ## Formación Académica
 
